@@ -3,7 +3,3 @@
 # azure-monitor-opentelemetry
 
 azure-functions
-pandas
-openpyxl
-xlrd
-logging
