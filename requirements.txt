@@ -2,7 +2,5 @@
 # Ref: aka.ms/functions-azure-monitor-python
 # azure-monitor-opentelemetry
 
-pandas
-openpyxl
-xlrd
+
 azure-functions
